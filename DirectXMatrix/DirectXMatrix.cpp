@@ -113,13 +113,13 @@ int main()
 	cout << "I = "               << endl << I << endl;
 	cout << "A = "               << endl << A << endl;
 	cout << "B = "               << endl << B << endl;
-	cout << "A+B = "             << endl <<S << endl;
+	cout << "A+B = "             << endl << S << endl;
 	cout << "A-B = "             << endl << D << endl;
 	cout << "A*B = "             << endl << M << endl;
 	cout << "Transpose(A)= "     << endl << transpose_A << endl;
-	cout << "Determinant of A  :"<< endl <<det <<endl;
+	cout << "Determinant of A  :"<< endl << det <<endl;
 	cout << "Inverse of A  is "  << endl << InvA << endl;
-    cout << "P=A*V	  is       " << P<<endl;
+    cout << "P=A*V	  is       " << P << endl;
 	
 
 	getchar();
